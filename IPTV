@@ -286,55 +286,57 @@ http://118.79.7.143:6000/rtp/226.0.2.94:8012$1920x1080
 http://36.49.51.252:30007/rtp/239.37.0.187:5540$1920x1080
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://118.79.7.143:6000/rtp/226.0.2.93:8004$1920x1080
-#EXTINF:-1 tvg-name="豆瓣高分" tvg-id="豆瓣高分" group-title="🎬电影频道", 豆瓣高分
+#EXTINF:-1,tvg-name="漫威系列" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",漫威系列
+http://maomao.kandiantv.cn/douyu1.php?id=6140589
+#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道", 豆瓣高分
 http://120.77.28.4:8648/douyu.php?id=8770422
-#EXTINF:-1 tvg-name="周星驰" tvg-id="周星驰" group-title="🎬电影频道", 周星驰
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道", 周星驰
 http://204bae1.123nat.com:35455/yy/1354889048
-#EXTINF:-1 tvg-name="周星驰" tvg-id="周星驰" group-title="🎬电影频道", 周星驰
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道", 周星驰
 http://204bae1.123nat.com:35455/yy/1354658049
-#EXTINF:-1 tvg-name="李连杰" tvg-id="李连杰" group-title="🎬电影频道", 李连杰
+#EXTINF:-1 tvg-name="李连杰" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道", 李连杰
 http://204bae1.123nat.com:35455/yy/74613175
-#EXTINF:-1 tvg-name="刘德华" group-title="🎬电影频道",刘德华
+#EXTINF:-1 tvg-name="刘德华" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",刘德华
 http://cfss.cc/cdn/hy/11342424.flv
-#EXTINF:-1 tvg-name="林正英" group-title="🎬电影频道",林正英
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",林正英
 http://cfss.cc/cdn/hy/11342421.m3u8
-#EXTINF:-1 tvg-name="玄幻电影" group-title="🎬电影频道",玄幻电影
+#EXTINF:-1 tvg-name="玄幻电影" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",玄幻电影
 http://diyp.zxxoo.work/huya/11342414
-#EXTINF:-1 tvg-name="恐怖电影" group-title="🎬电影频道",恐怖电影
+#EXTINF:-1 tvg-name="恐怖电影" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",恐怖电影
 http://cfss.cc/cdn/hy/11601960.flv
-#EXTINF:-1 tvg-name="喜剧电影" group-title="🎬电影频道",喜剧电影
+#EXTINF:-1 tvg-name="喜剧电影" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",喜剧电影
 http://cfss.cc/cdn/hy/11342423.flv
-#EXTINF:-1 tvg-name="战争电影" group-title="🎬电影频道",战争电影
+#EXTINF:-1 tvg-name="战争电影" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",战争电影
 http://cfss.cc/cdn/hy/21059574.flv
-#EXTINF:-1 tvg-name="功夫电影" group-title="🎬电影频道",功夫电影
+#EXTINF:-1 tvg-name="功夫电影" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",功夫电影
 http://cfss.cc/cdn/hy/11352941.flv
-#EXTINF:-1 tvg-name="怪兽电影" group-title="🎬电影频道",怪兽电影
+#EXTINF:-1 tvg-name="怪兽电影" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",怪兽电影
 http://cfss.cc/cdn/hy/21059577.flv
-#EXTINF:-1 tvg-name="哈利波特系列" group-title="🎬电影频道",哈利波特系列
+#EXTINF:-1 tvg-name="哈利波特系列" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🎬电影频道",哈利波特系列
 http://120.77.28.4:8648/douyu.php?id=8814650
 
 
 #EXTINF:-1 tvg-name="爱情公寓" tvg-id="爱情公寓" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="🏛经典剧场", 爱情公寓
 http://cfss.cc/cdn/hy/11336726.flv
-#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",笑傲江湖
 http://cfss.cc/cdn/hy/23865142.flv
-#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",笑傲江湖
 http://cfss.cc/cdn/hy/26355790.flv
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://live.fanmingming.com/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",天龙八部
 http://cfss.cc/cdn/hy/23903123.flv
-#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://live.fanmingming.com/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",鹿鼎记
 http://cfss.cc/cdn/hy/23865080.flv
-#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://live.fanmingming.com/tv/仙剑奇侠传.png" group-title="🏛经典剧场",仙剑奇侠传
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",仙剑奇侠传
 http://cfss.cc/cdn/yy/1382749903.flv
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://live.fanmingming.com/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",新白娘子传奇
 http://live.iill.top/yy.php?id=1354930969
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://live.fanmingming.com/tv/封神榜.png" group-title="🏛经典剧场",封神榜
+#EXTINF:-1 tvg-name="封神榜"tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",封神榜
 http://cfss.cc/cdn/hy/23749096.flv
-#EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://live.fanmingming.com/tv/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
+#EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",射雕英雄传
 http://cfss.cc/cdn/hy/23824164.flv
-#EXTINF:-1 tvg-name="西游记" tvg-logo="https://live.fanmingming.com/tv/西游记.png" group-title="🏛经典剧场",西游记
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",西游记
 http://120.77.28.4:8648/douyu.php?id=3113309
-#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://live.fanmingming.com/tv/三国演义.png" group-title="🏛经典剧场",三国演义
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="🏛经典剧场",三国演义
 http://120.77.28.4:8648/douyu.php?id=2838296
 #EXTINF:-1 tvg-name="新三国" tvg-id="新三国" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="🏛经典剧场", 新三国
 http://cfss.cc/cdn/hy/11352944.flv
@@ -352,10 +354,14 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="🌊国际港澳台",半島電視台英語頻道
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,tvg-name="半島新闻" tvg-logo="https://epg.v1.mk/logo/半岛新闻.png" group-title="🌊国际港澳台",半島新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="新加坡中文" tvg-logo="https://assets.livednow.com/logo/新加坡中文.png" group-title="🌊国际港澳台",新加坡中文
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-name="韩国KBS" tvg-logo="https://assets.livednow.com/logo/韩国KBS.png" group-title="🌊国际港澳台",韩国KBS
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1,tvg-name="KBSWorld" tvg-logo="https://epg.v1.mk/logo/KBSWorld.png" group-title="🌊国际港澳台",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🌊国际港澳台",凤凰中文
 http://171.213.130.23:8088/rtp/239.93.1.9:2192$1920x1080
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="🌊国际港澳台",凤凰中文
@@ -365,10 +371,11 @@ http://171.213.130.23:8088/rtp/239.93.1.4:2191$1920x1080
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="🌊国际港澳台",凤凰资讯
 http://42.92.117.243:8888/rtp/239.255.30.70:8231$1920x1080
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="🌊国际港澳台",香港卫视
-https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="🌊国际港澳台",香港卫视
-http://anren.live/HK/BSJDUFpB.m3u8
-
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+#EXTINF:-1,tvg-name="环球电视" tvg-logo="https://epg.v1.mk/logo/环球电视.png" group-title="🌊国际港澳台",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.com/tv/nba tv.png" group-title="🏀体育频道",NBA TV
 https://stream1.freetv.fun/nba-tv-4.ctv
