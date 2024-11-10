@@ -384,7 +384,7 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-name="NBATV" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="📶数字频道",NBATV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1  tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png"  group-title="📶数字频道"",精品体育
+#EXTINF:-1  tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png"  group-title="📶数字频道",精品体育
 http://[2409:8087:74d9:21::6]/270000001128/9900000102/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="📶数字频道",哒啵赛事
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8
