@@ -280,8 +280,6 @@ http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002165/index.m
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 #EXTINF:-1 tvg-name="河北少儿" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png" group-title="🪁动画频道",河北少儿
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png" group-title="🪁动画频道",猫和老鼠
-http://cfss.cc/cdn/hy/11352879.m3u8
 
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
@@ -296,16 +294,8 @@ http://maomao.kandiantv.cn/douyu1.php?id=6140589
 http://120.77.28.4:8648/douyu.php?id=8770422
 #EXTINF:-1 tvg-name="周星驰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道", 周星驰电影
 http://diyp.zxxoo.work/huya/11342412
-#EXTINF:-1 tvg-name="古天乐电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道", 古天乐电影
-http://cfss.cc/cdn/hy/29982675.flv
 #EXTINF:-1 tvg-name="李连杰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道", 李连杰电影
 http://diyp.zxxoo.work/huya/11342390
-#EXTINF:-1 tvg-name="沈腾电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道", 沈腾电影
-http://cfss.cc/cdn/hy/11601968.flv
-#EXTINF:-1 tvg-name="王晶电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道", 王晶电影
-http://cfss.cc/cdn/hy/11601968.flv
-#EXTINF:-1 tvg-name="刘德华电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道",刘德华电影
-http://cfss.cc/cdn/hy/11342424.flv
 #EXTINF:-1 tvg-name="周润发电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道",周润发电影
 http://111.67.193.2:35455/huya/11342387
 #EXTINF:-1 tvg-name="许氏三杰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道",许氏三杰电影
@@ -314,8 +304,6 @@ http://diyp.zxxoo.work/huya/11602033
 http://111.67.193.2:35455/huya/11342421
 #EXTINF:-1 tvg-name="强森电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道",强森电影
 http://diyp.zxxoo.work/huya/21059581
-#EXTINF:-1 tvg-name="金庸武侠" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道", 金庸武侠
-http://cfss.cc/cdn/hy/11342435.flv
 #EXTINF:-1 tvg-name="贺岁电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道", 贺岁电影
 http://diyp.zxxoo.work/huya/11601986
 #EXTINF:-1 tvg-name="玄幻电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="🎬电影频道",玄幻电影
