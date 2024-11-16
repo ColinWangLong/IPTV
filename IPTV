@@ -48,12 +48,6 @@ https://0472.org/hls/cgtne.m3u8
 https://0472.org/hls/cgtna.m3u8
 
 
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
-http://118.79.7.143:6000/rtp/226.0.2.240:9820$1920x1080
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
-http://118.79.7.143:6000/rtp/226.0.2.94:8012$1920x1080
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="电影频道",CHC高清电影
-http://118.79.7.143:6000/rtp/226.0.2.93:8004$1920x1080
 #EXTINF:-1 tvg-name="豆瓣高分电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道", 豆瓣高分电影
 http://120.77.28.4:8648/douyu.php?id=8770422
 #EXTINF:-1 tvg-name="周星驰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道", 周星驰电影
@@ -78,6 +72,7 @@ http://diyp.zxxoo.work/douyu/1165374
 http://diyp.zxxoo.work/douyu/8814650
 #EXTINF:-1,tvg-name="漫威电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",漫威电影
 http://maomao.kandiantv.cn/douyu1.php?id=6140589
+
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="国际港澳台",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
