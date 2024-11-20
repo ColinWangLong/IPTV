@@ -390,10 +390,12 @@ http://diyp.zxxoo.work/douyu/3379942
 http://diyp.zxxoo.work/huya/11352935
 #EXTINF:-1 tvg-name="黄渤电影" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 黄渤电影
 http://diyp.zxxoo.work/huya/11352876
-#EXTINF:-1 tvg-name="许氏电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道",许氏电影
+#EXTINF:-1 tvg-name="许冠杰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道",许冠杰电影
 http://diyp.zxxoo.work/huya/11602033
 #EXTINF:-1 tvg-name="林正英电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道",林正英电影
 http://111.67.193.2:35455/huya/11342421
+#EXTINF:-1 tvg-name="王晶电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 王晶电影
+http://diyp.zxxoo.work/huya/11602058
 #EXTINF:-1 tvg-name="金庸武侠" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 金庸武侠
 http://diyp.zxxoo.work/huya/11342435
 #EXTINF:-1 tvg-name="贺岁电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 贺岁电影
@@ -412,6 +414,9 @@ http://diyp.zxxoo.work/douyu/8814650
 http://diyp.zxxoo.work/huya/21059581
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="数字频道", 爱情公寓
 http://diyp.zxxoo.work/huya/11336726
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="数字频道", 天龙八部
+http://diyp.zxxoo.work/huya/23903123
+
 
 
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="国际港澳台",Love Nature
