@@ -146,14 +146,6 @@ http://diyp.zxxoo.work/huya/23903123
 http://diyp.zxxoo.work/huya/23824164
 
 
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="国际港澳台",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://live.fanmingming.com/tv/WILD PLANET.png" group-title="国际港澳台",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-name="ZooMo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="国际港澳台",ZooMo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="国际港澳台",Animax
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="国际港澳台",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="国际港澳台",CNN
@@ -242,6 +234,14 @@ http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="History" tvg-logo="https://live.fanmingming.com/tv/HistoryChannel.png" group-title="国际港澳台",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="国际港澳台",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://live.fanmingming.com/tv/WILD PLANET.png" group-title="国际港澳台",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-name="ZooMo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="国际港澳台",ZooMo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="国际港澳台",Animax
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="channel 5" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",Channel 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="channel 8" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",Channel 8
@@ -250,7 +250,3 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="CBN News" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-name="Pop" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",Pop
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-#EXTINF:-1 tvg-name="AXS TV" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",AXS TV
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
