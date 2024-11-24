@@ -384,6 +384,8 @@ http://diyp.zxxoo.work/douyu/1165374
 http://diyp.zxxoo.work/douyu/8814650
 #EXTINF:-1 tvg-name="强森电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道",强森电影
 http://diyp.zxxoo.work/huya/21059581
+#EXTINF:-1 tvg-name="漫威电影电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道",漫威电影电影
+http://maomao.kandiantv.cn/douyu1.php?id=6140589
 #EXTINF:-1 tvg-name="狄仁杰系列" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 狄仁杰系列
 http://diyp.zxxoo.work/huya/30080229
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="数字频道", 爱情公寓
@@ -492,11 +494,3 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="国际港澳台",Animax
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="channel 5" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",Channel 5
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-name="channel 8" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",Channel 8
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",WionNews
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="CBN News" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="国际港澳台",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
