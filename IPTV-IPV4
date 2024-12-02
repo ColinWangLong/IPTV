@@ -221,51 +221,45 @@ http://171.223.90.210:9527/udp/239.93.0.41:5140
 #EXTINF:-1 tvg-name="豆瓣高分电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 豆瓣高分电影
 http://120.77.28.4:8648/douyu.php?id=8770422
 #EXTINF:-1 tvg-name="周星驰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 周星驰电影
-http://diyp.zxxoo.work/huya/11342412
+http://120.77.28.4:8648/huya.php?id=11342412
 #EXTINF:-1 tvg-name="李连杰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 李连杰电影
-http://diyp.zxxoo.work/huya/11342390
-#EXTINF:-1 tvg-name="古天乐电影" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 古天乐电影
-http://diyp.zxxoo.work/huya/29982675
+http://120.77.28.4:8648/huya.php?id=11342390
 #EXTINF:-1 tvg-name="成龙电影" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 成龙电影
-http://diyp.zxxoo.work/douyu/3379942
+http://120.77.28.4:8648/huya.php?id=11342386
 #EXTINF:-1 tvg-name="甄子丹电影" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 甄子丹电影
-http://diyp.zxxoo.work/huya/11352935
+http://120.77.28.4:8648/huya.php?id=11352935
 #EXTINF:-1 tvg-name="黄渤电影" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 黄渤电影
-http://diyp.zxxoo.work/huya/11352876
+http://120.77.28.4:8648/huya.php?id=11352876
 #EXTINF:-1 tvg-name="许冠杰电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",许冠杰电影
-http://diyp.zxxoo.work/huya/11602033
+http://120.77.28.4:8648/huya.php?id=11601972
 #EXTINF:-1 tvg-name="林正英电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",林正英电影
-http://111.67.193.2:35455/huya/11342421
+http://120.77.28.4:8648/huya.php?id=11342421
 #EXTINF:-1 tvg-name="王晶电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 王晶电影
-http://diyp.zxxoo.work/huya/11602058
-#EXTINF:-1 tvg-name="金庸武侠" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 金庸武侠
-http://diyp.zxxoo.work/huya/11342435
+http://120.77.28.4:8648/huya.php?id=11602058
 #EXTINF:-1 tvg-name="贺岁电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 贺岁电影
-http://diyp.zxxoo.work/huya/11601986
+http://120.77.28.4:8648/huya.php?id=11601971
 #EXTINF:-1 tvg-name="功夫电影" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 功夫电影
-http://diyp.zxxoo.work/huya/11352941
+http://120.77.28.4:8648/huya.php?id=11352941
 #EXTINF:-1 tvg-name="谍战电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",谍战电影
-http://diyp.zxxoo.work/huya/21059585
+http://120.77.28.4:8648/huya.php?id=21059585
 #EXTINF:-1 tvg-name="热血电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",热血电影
-http://diyp.zxxoo.work/huya/11352934
-#EXTINF:-1 tvg-name="恐怖电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",恐怖电影
-http://diyp.zxxoo.work/douyu/1165374
-#EXTINF:-1 tvg-name="哈利波特系列" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",哈利波特系列
-http://diyp.zxxoo.work/douyu/8814650
+http://120.77.28.4:8648/huya.php?id=11352934
+#EXTINF:-1 tvg-name="恐怖鬼怪" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",恐怖鬼怪
+http://120.77.28.4:8648/douyu.php?id=1165374
+#EXTINF:-1 tvg-name="哈利波特" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",哈利波特
+http://120.77.28.4:8648/douyu.php?id=8814650
 #EXTINF:-1 tvg-name="强森电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",强森电影
-http://diyp.zxxoo.work/huya/21059581
+http://120.77.28.4:8648/huya.php?id=21059581
 #EXTINF:-1 tvg-name="漫威电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",漫威电影
-http://maomao.kandiantv.cn/douyu1.php?id=6140589
-#EXTINF:-1 tvg-name="狄仁杰系列" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 狄仁杰系列
-http://diyp.zxxoo.work/huya/30080229
+http://120.77.28.4:8648/douyu.php?id=6140589
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="影视频道", 爱情公寓
-http://diyp.zxxoo.work/huya/11336726
-#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="影视频道", 神雕侠侣
-http://diyp.zxxoo.work/huya/11352964
+http://120.77.28.4:8648/huya.php?id=11336726
+#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="影视频道", 神雕侠侣
+https://live.metshop.top/huya/23865171
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="影视频道", 天龙八部
-http://diyp.zxxoo.work/huya/23903123
+http://120.77.28.4:8648/huya.php?id=23903123
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="影视频道", 射雕英雄传
-http://diyp.zxxoo.work/huya/23824164
+http://rihou.cc:555/yy.php?id=1354210357
 
 
 #EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="国际港澳台",BBC NEWS
