@@ -564,14 +564,14 @@ http://diyp.zxxoo.work/huya/11352941
 http://diyp.zxxoo.work/huya/21059585
 #EXTINF:-1 tvg-name="热血电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",热血电影
 http://diyp.zxxoo.work/huya/11352934
-#EXTINF:-1 tvg-name="恐怖电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",恐怖电影
-http://diyp.zxxoo.work/douyu/1165374
+#EXTINF:-1 tvg-name="恐怖鬼怪" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",恐怖鬼怪
+http://120.77.28.4:8648/douyu.php?id=1165374
 #EXTINF:-1 tvg-name="哈利波特系列" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",哈利波特系列
-http://diyp.zxxoo.work/douyu/8814650
+http://120.77.28.4:8648/douyu.php?id=8814650
 #EXTINF:-1 tvg-name="强森电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",强森电影
 http://diyp.zxxoo.work/huya/21059581
 #EXTINF:-1 tvg-name="漫威电影" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",漫威电影
-http://maomao.kandiantv.cn/douyu1.php?id=6140589
+http://120.77.28.4:8648/douyu.php?id=6140589
 #EXTINF:-1 tvg-name="狄仁杰系列" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道", 狄仁杰系列
 http://diyp.zxxoo.work/huya/30080229
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="影视频道", 爱情公寓
