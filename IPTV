@@ -249,57 +249,63 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 
 
 #EXTM3U
-#EXTINF:-1 group-title="影视频道",射雕英雄传
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",射雕英雄传
 http://dns.yiandrive.com:16813/yy/1354210357
-#EXTINF:-1 group-title="影视频道",天龙八部
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",天龙八部
 http://dns.yiandrive.com:16813/yy/1351814644
-#EXTINF:-1 group-title="影视频道",神雕侠侣
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",神雕侠侣
 http://dns.yiandrive.com:16813/yy/1382704651
-#EXTINF:-1 group-title="影视频道",笑傲江湖
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",笑傲江湖
 http://dns.yiandrive.com:16813/yy/1354930909
-#EXTINF:-1 group-title="影视频道",鹿鼎记周星驰
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",鹿鼎记周星驰
 http://dns.yiandrive.com:16813/yy/1354658049
-#EXTINF:-1 group-title="影视频道",鹿鼎记陈小春
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",鹿鼎记陈小春
 http://dns.yiandrive.com:16813/yy/28265277
-#EXTINF:-1 group-title="影视频道",古惑仔系列
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",古惑仔系列
 http://dns.yiandrive.com:16813/yy/1354507447
-#EXTINF:-1 group-title="影视频道",少年包青天1
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="影视频道",少年包青天1
 http://dns.yiandrive.com:16813/yy/1356043677
-#EXTINF:-1 group-title="影视频道",少年包青天3
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="影视频道",少年包青天3
 http://dns.yiandrive.com:16813/yy/1382736814
-#EXTINF:-1 group-title="影视频道",宰相刘罗锅
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",宰相刘罗锅
 http://dns.yiandrive.com:16813/yy/1353892468
-#EXTINF:-1 group-title="影视频道",封神榜
-http://dns.yiandrive.com:16813/yy/1356043643
-#EXTINF:-1 group-title="影视频道",红楼梦
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="影视频道",新三国
+http://www.52sw.top:678/play/huya.php?id=11352944
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="影视频道",新水浒传
+http://www.52sw.top:678/play/huya.php?id=11342384
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="影视频道",西游记续集
+http://jiaojirentv.top/2020/dy.php?id=3113309
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",红楼梦
 http://dns.yiandrive.com:16813/yy/1382745084
-#EXTINF:-1 group-title="影视频道",法证先锋
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",法证先锋
 http://dns.yiandrive.com:16813/yy/1354930939
-#EXTINF:-1 group-title="影视频道",宫锁珠帘
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",宫锁珠帘
 http://dns.yiandrive.com:16813/yy/1354926666
-#EXTINF:-1 group-title="影视频道",宫心计
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",宫心计
 http://dns.yiandrive.com:16813/yy/1354933540
-#EXTINF:-1 group-title="影视频道",士兵突击
+#EXTINF:-1tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png"  group-title="影视频道",士兵突击
 http://dns.yiandrive.com:16813/yy/1382828766
-#EXTINF:-1 group-title="影视频道",欢乐颂
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/欢乐颂.png" group-title="影视频道",欢乐颂
 http://dns.yiandrive.com:16813/yy/1382735624
-#EXTINF:-1 group-title="影视频道",知否知否应是绿肥红瘦
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",知否知否应是绿肥红瘦
 http://dns.yiandrive.com:16813/yy/1354936134
-#EXTINF:-1 group-title="影视频道",狂飙
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="影视频道",狂飙
 http://dns.yiandrive.com:16813/yy/1354790484
-#EXTINF:-1 group-title="影视频道",武林外传
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",武林外传
 http://dns.yiandrive.com:16813/yy/21092633
-#EXTINF:-1 group-title="影视频道",来自星星的你
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",来自星星的你
 http://dns.yiandrive.com:16813/yy/1354930976
-#EXTINF:-1 group-title="影视频道",灌篮高手
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",灌篮高手
 http://dns.yiandrive.com:16813/yy/1382735626
-#EXTINF:-1 group-title="影视频道",漫威影片
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",漫威影片
 https://www.goodiptv.club/douyu/6140589
-#EXTINF:-1 group-title="影视频道",豆瓣高分
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",豆瓣高分
 https://www.goodiptv.club/douyu/8770422
-#EXTINF:-1 group-title="影视频道",林正英电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",成龙电影
+http://jiaojirentv.top/2020/dy.php?id=3379942
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",林正英电影
 https://www.goodiptv.club/douyu/218859
-#EXTINF:-1 group-title="影视频道",哈利波特系列
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",哈利波特系列
 https://www.goodiptv.club/douyu/8814650
 #EXTINF:-1 group-title="影视频道",NewTV超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -341,21 +347,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="影视频道",NewTV怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="影视频道",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="儿童频道",哈哈炫动
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="儿童频道",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="儿童频道",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="儿童频道",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="儿童频道",优漫卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="儿童频道",哈哈炫动
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="儿童频道",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="儿童频道",黑莓动画
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
 #EXTINF:-1 group-title="儿童频道",优漫卡通
@@ -378,7 +382,7 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733ce
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
 
-#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="国际港澳台",BBC NEWS
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际港澳台",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="国际港澳台",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
