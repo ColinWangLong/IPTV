@@ -263,7 +263,7 @@ http://dns.yiandrive.com:16813/yy/1354658049
 http://dns.yiandrive.com:16813/yy/28265277
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",古惑仔系列
 http://dns.yiandrive.com:16813/yy/1354507447
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="影视频道",少年包青天1
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="影视频道",少年包青天1
 http://dns.yiandrive.com:16813/yy/1356043677
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="影视频道",少年包青天3
 http://dns.yiandrive.com:16813/yy/1382736814
@@ -273,7 +273,7 @@ http://dns.yiandrive.com:16813/yy/1353892468
 http://www.52sw.top:678/play/huya.php?id=11352944
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="影视频道",新水浒传
 http://www.52sw.top:678/play/huya.php?id=11342384
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="影视频道",西游记续集
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="影视频道",西游记
 http://jiaojirentv.top/2020/dy.php?id=3113309
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",红楼梦
 http://dns.yiandrive.com:16813/yy/1382745084
@@ -301,7 +301,7 @@ http://dns.yiandrive.com:16813/yy/1382735626
 https://www.goodiptv.club/douyu/6140589
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",豆瓣高分
 https://www.goodiptv.club/douyu/8770422
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",成龙电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",成龙电影
 http://jiaojirentv.top/2020/dy.php?id=3379942
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",林正英电影
 https://www.goodiptv.club/douyu/218859
