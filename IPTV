@@ -374,9 +374,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 #EXTINF:-1 group-title="儿童频道",山东少儿
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="儿童频道",浙江少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="儿童频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 group-title="儿童频道",内蒙古少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" group-title="儿童频道",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 #EXTINF:-1 group-title="儿童频道",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
