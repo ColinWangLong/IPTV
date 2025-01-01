@@ -274,16 +274,12 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",哈利波特系列
-https://www.goodiptv.club/douyu/8814650
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="影视频道",少年包青天
 http://jiaojirentv.top/2020/yy.php?id=1356043677
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="影视频道",新三国
 http://www.52sw.top:678/play/huya.php?id=11352944
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="影视频道",新水浒传
 http://www.52sw.top:678/play/huya.php?id=11342384
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="影视频道",西游记
-http://jiaojirentv.top/2020/dy.php?id=3113309
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",漫威影片
 https://www.goodiptv.club/douyu/6140589
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",豆瓣高分
@@ -295,7 +291,8 @@ http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-598965634
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",成龙电影
 http://jiaojirentv.top/2020/dy.php?id=3379942
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",李连杰电影
-
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",哈利波特系列
+https://www.goodiptv.club/douyu/8814650
 
 
 #EXTM3U
