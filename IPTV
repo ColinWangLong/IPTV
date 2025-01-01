@@ -85,7 +85,7 @@ https://0472.org/hls/cgtna.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",兵团卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="央视卫视(IPV4)",兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -115,17 +115,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",康巴卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="央视卫视(IPV4)",康巴卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",内蒙古卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="央视卫视(IPV4)",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 group-title="央视卫视(IPV4)",宁夏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",山东教育卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="央视卫视(IPV4)",山东教育卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
@@ -143,7 +143,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",延边卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="央视卫视(IPV4)",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
