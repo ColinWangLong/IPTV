@@ -274,30 +274,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",天龙八部
-http://kxrj.site:1258/699/hy.php?id=23903123
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",鹿鼎记
-http://kxrj.site:1258/699/hy.php?id=23865080
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",神雕侠侣
-http://kxrj.site:1258/699/hy.php?id=23865171
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",射雕英雄传
-http://kxrj.site:1258/699/hy.php?id=23824164
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",倚天屠龙记
-http://kxrj.site:1258/699/hy.php?id=23734246
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",笑傲江湖
-http://kxrj.site:1258/699/hy.php?id=23865142
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",寻秦记
-http://kxrj.site:1258/699/hy.php?id=23864973
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",大唐双龙传
-http://kxrj.site:1258/699/hy.php?id=23728674
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",楚汉骄雄
-http://kxrj.site:1258/699/hy.php?id=23740156
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",封神榜
-http://kxrj.site:1258/699/hy.php?id=23749096
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",西游记1
-http://kxrj.site:1258/699/hy.php?id=23728660
-#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",西游记2
-http://kxrj.site:1258/699/hy.php?id=23735126
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",哈利波特系列
 https://www.goodiptv.club/douyu/8814650
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="影视频道",少年包青天
@@ -316,32 +292,9 @@ https://www.goodiptv.club/douyu/8770422
 http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",林正英电影
 http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",刘德华电影
-http://kxrj.site:1258/699/hy.php?id=11342424
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",古天乐电影
-http://kxrj.site:1258/699/hy.php?id=29982675
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",成龙电影
 http://jiaojirentv.top/2020/dy.php?id=3379942
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",李连杰电影
-http://kxrj.site:1258/699/hy.php?id=11342390
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",甄子丹电影
-http://kxrj.site:1258/699/hy.php?id=11352935
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",狄仁杰系列
-http://kxrj.site:1258/699/hy.php?id=30080229
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",沈腾电影
-http://kxrj.site:1258/699/hy.php?id=11601968
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",黄渤电影
-http://kxrj.site:1258/699/hy.php?id=11352876
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",强森电影
-http://kxrj.site:1258/699/hy.php?id=21059581
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",王晶电影
-http://kxrj.site:1258/699/hy.php?id=11602058
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",金庸武侠
-http://kxrj.site:1258/699/hy.php?id=11342435
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",功夫电影
-http://kxrj.site:1258/699/hy.php?id=11352941
-#EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",贺岁电影
-http://kxrj.site:1258/699/hy.php?id=11601986
 
 
 #EXTM3U
@@ -431,8 +384,6 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="国际港澳台",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="国际港澳台",翡翠台4K
-http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="国际港澳台",黄金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="国际港澳台",翡翠综合台
