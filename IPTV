@@ -392,6 +392,12 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 
 #EXTM3U
+#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="影视频道",CHC影迷电影
+http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" group-title="影视频道",CHC动作电影
+http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
+#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC2.png" group-title="影视频道",CHC家庭影院
+http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",刘德华电影
 http://1.94.31.214:35455/huya/11342424
 #EXTINF:-1 tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",古天乐电影
