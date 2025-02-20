@@ -153,8 +153,6 @@ http://998969.xyz:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
 http://998969.xyz:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="央视卫视",厦门卫视
 http://998969.xyz:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="央视卫视",康巴卫视
-http://998969.xyz:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="央视卫视",大湾区卫视
 http://998969.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="央视卫视",珠江卫视
@@ -193,6 +191,8 @@ http://tv.20191209.xyz:37377/migu/608807423.m3u8?migutoken=948b8b51df7e776bcf238
 http://tv.20191209.xyz:37377/migu/624878440.m3u8?migutoken=d84c14c00275d7fa951be2b0a959b0c1af15c62e7f86732fa2306e3a92f447f5b841e0cc26645dc89e70e970812e2c07c2fe24ae5c02b854544ed8c99d6c6d668a402d58cf351e77b5311afd
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央卫备用",CCTV-15 音乐
 http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央卫备用",CCTV-16 奥林匹克
+http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央卫备用",CCTV-17 农业农村
 http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
 
@@ -232,8 +232,7 @@ http://148.135.93.213:81/live.php?id=CCTV15
 http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央卫备用",CCTV-17
 http://148.135.93.213:81/live.php?id=CCTV17
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://live.zbds.top/logo/CCTV8K.png" group-title="央卫备用",CCTV 8K
-http://148.135.93.213:81/live.php?id=CCTV8K-av3a
+
 
 #影视频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="影视频道",CHC影迷电影
