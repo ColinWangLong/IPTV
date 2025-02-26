@@ -310,11 +310,10 @@ http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
 http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
 #EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC2.png" group-title="影视频道",CHC家庭影院
 http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",周星驰电影
-http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",林正英电影
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",周星驰电影
+http://1.94.31.214:35455/huya/11342412
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",林正英电影
 http://1.94.31.214:35455/huya/11342421
-#http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",刘德华电影
 http://1.94.31.214:35455/huya/11342424
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",古天乐电影
