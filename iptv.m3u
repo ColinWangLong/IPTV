@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+#央视卫视
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视卫视", CCTV1综合
 https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=830e0ae7d1a2d4af1c6e9355f408d28ff5f36bb43f3a4ccf70f5ba8f9059f6e7e4d6334e9c61ab7dac58791d5d9f86b79ebd9295baef31b302793308568dfac1a705741c17a4db47908a654b91
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视卫视", CCTV2财经
@@ -31,8 +32,8 @@ https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=ba40405fae66b31563970c5c
 https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=8d009dee64bbbba825b47ee693c00854549191cd0a0de8f39e541dab786918113ebb83e0d285dcb76c132741201a81285f519df37e7e9959e5af81b0069e90204e13ec96ca955c3cbb11262a28
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="央视卫视", CCTV15音乐
 https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=4ba07ec81515c4d8c4081975dd85913c523d492172fcfb935079063d79b29b1cf6ac4580188b2d4d178f8e97f034755e1955848a549308f243a51c1c48cce3063929bbea5fea7c1705e2080364
-#EXTINF:-1,tvg-id="cctv164k" tvg-name="cctv164k" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="央视卫视",cctv16奥林匹克
-https://mursor.ottiptv.cc/bst/cctv16hd4k@15000000.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/462/658/202506201045_1750387453057_H169_1080.jpg" group-title="央视卫视", CCTV16奥林匹克
+https://mursor.ottiptv.cc/migu/707671890.m3u8?migutoken=09984dd21e7544dd54fdeaa71d146c1ece4ace4aae52d0c0f9e0afa2abf9a618c07cbfadde8f8847f7d43c36b998784cd7cfcf645d8be4c1dd8644bc46205f0f2c2091c8eed4bc4f5d86b628f6
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="央视卫视", CCTV17农业农村
 https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=3f03a8274f8acd117915a9170a8c98f89d37d89345dd1b70a98e43ae241487e3770db4711a37541f27bf3347b83ff08b9b7eae8fd0c58c02b441e81afadf5efff4d28be85e626cfc9d432f7971
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="央视卫视",cctv4k
@@ -59,41 +60,6 @@ http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视卫视",CGTN阿语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #https://0472.org/hls/cgtna.m3u8
-
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视卫视",CCTV-1
-https://mursor.ottiptv.cc/bst/cctv1hd@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视卫视",CCTV-2
-https://mursor.ottiptv.cc/bst/cctv2hd8m@8000000.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视卫视",CCTV-3
-https://mursor.ottiptv.cc/bst/cctv3hd@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视卫视",CCTV-4
-https://mursor.ottiptv.cc/bst/cctv4hd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视卫视",CCTV-5
-https://mursor.ottiptv.cc/bst/cctv5hd@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视卫视",CCTV-6
-https://mursor.ottiptv.cc/bst/cctv6hd@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视卫视",CCTV-7
-https://mursor.ottiptv.cc/bst/cctv7hd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视卫视",CCTV-8
-https://mursor.ottiptv.cc/bst/cctv8hd@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视卫视",CCTV-9
-https://mursor.ottiptv.cc/bst/cctv9hd4mc@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视卫视",CCTV-10
-https://mursor.ottiptv.cc/bst/cctv10hd@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视卫视",CCTV-11
-https://mursor.ottiptv.cc/bst/cctv11hd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视卫视",CCTV-12
-https://mursor.ottiptv.cc/bst/cctv12hd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="BTV新闻" tvg-name="BTV新闻" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视卫视",CCTV-13
-https://mursor.ottiptv.cc/bst/cctv13hd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视卫视",CCTV14
-https://mursor.ottiptv.cc/bst/cctvsehd@4000000.m3u8
-#EXTINF:-1,tvg-id="动感音乐" tvg-name="动感音乐" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视卫视",CCTV15
-https://mursor.ottiptv.cc/bst/cctvyyhd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视卫视",CCTV-16
-https://mursor.ottiptv.cc/bst/cctv16hd4m@4000000.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视卫视",CCTV-17
-https://mursor.ottiptv.cc/bst/cctv17hd4m@4000000.m3u8
 
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="央视卫视",东方卫视
 https://mursor.ottiptv.cc/bst/hddfws@4000000.m3u8
@@ -164,13 +130,126 @@ https://mursor.ottiptv.cc/bst/nxws@1300000.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="央视卫视",青海卫视
 https://mursor.ottiptv.cc/bst/qhws@1300000.m3u8
 
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视卫视",CCTV-1
+https://mursor.ottiptv.cc/bst/cctv1hd@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视卫视",CCTV-2
+https://mursor.ottiptv.cc/bst/cctv2hd8m@8000000.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视卫视",CCTV-3
+https://mursor.ottiptv.cc/bst/cctv3hd@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视卫视",CCTV-4
+https://mursor.ottiptv.cc/bst/cctv4hd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视卫视",CCTV-5
+https://mursor.ottiptv.cc/bst/cctv5hd@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视卫视",CCTV-6
+https://mursor.ottiptv.cc/bst/cctv6hd@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视卫视",CCTV-7
+https://mursor.ottiptv.cc/bst/cctv7hd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视卫视",CCTV-8
+https://mursor.ottiptv.cc/bst/cctv8hd@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视卫视",CCTV-9
+https://mursor.ottiptv.cc/bst/cctv9hd4mc@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视卫视",CCTV-10
+https://mursor.ottiptv.cc/bst/cctv10hd@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视卫视",CCTV-11
+https://mursor.ottiptv.cc/bst/cctv11hd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视卫视",CCTV-12
+https://mursor.ottiptv.cc/bst/cctv12hd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="BTV新闻" tvg-name="BTV新闻" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视卫视",CCTV-13
+https://mursor.ottiptv.cc/bst/cctv13hd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视卫视",CCTV14
+https://mursor.ottiptv.cc/bst/cctvsehd@4000000.m3u8
+#EXTINF:-1,tvg-id="动感音乐" tvg-name="动感音乐" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视卫视",CCTV15
+https://mursor.ottiptv.cc/bst/cctvyyhd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视卫视",CCTV-16
+https://mursor.ottiptv.cc/bst/cctv16hd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视卫视",CCTV-17
+https://mursor.ottiptv.cc/bst/cctv17hd4m@4000000.m3u8
 
-
-#EXTINF:-1,tvg-id="电影4K" tvg-name="电影4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="其他",电影4K
+#影视频道
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",周星驰电影
+http://www.douzhicloud.site:35455/huya/11342412
+#http://iptv.jxpan.vip:18888/aio/huya/11342412
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",林正英电影
+http://www.douzhicloud.site:35455/huya/11342421
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",刘德华电影
+http://www.douzhicloud.site:35455/huya/11342424
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",古天乐电影
+http://www.douzhicloud.site:35455/huya/29982675
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",成龙电影
+http://www.douzhicloud.site:35455/douyu/3379942
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",李连杰电影
+http://www.douzhicloud.site:35455/huya/11342390
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",甄子丹电影
+http://www.douzhicloud.site:35455/huya/11352935
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",沈腾电影
+http://www.douzhicloud.site:35455/huya/11601968
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",黄渤电影
+http://www.douzhicloud.site:35455/huya/11352876
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",强森电影
+http://www.douzhicloud.site:35455/huya/21059581
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",王晶电影
+http://www.douzhicloud.site:35455/huya/11602058
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",金庸武侠
+http://www.douzhicloud.site:35455/huya/11342435
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",邵氏影院
+http://www.douzhicloud.site:35455/douyu/4246519
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",功夫电影
+http://www.douzhicloud.site:35455/huya/11352941
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",贺岁电影
+http://www.douzhicloud.site:35455/huya/11601986
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="影视频道", 高清大片
+https://mursor.ottiptv.cc/migu/629943678.m3u8?migutoken=175d1eb9e1f5c50124b9a746b34a7ca2b21b894620c00d8829390c7b0be1f86fb8f0a2d65013965ca758bf6f75f1ec6ff1ed277a04056e6ae05ac9c2f3b86b50fb794d15cdb149e91f84bcc394
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202507181733_1752831177769_H169_1080.jpg" group-title="影视频道", 高能悬疑
+https://mursor.ottiptv.cc/migu/625133682.m3u8?migutoken=6f3b75b8d0bd8069fab587ac341f52d8d07ad601a311aec07b0905e4f542d1543c5ca53cdcd6c377c0f516bb41512bf7b88790e072fa9572ba4d810f0acae3b65faf5c6b62a32c5b9c7ae01935
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202507241513_1753340542329_H169_1080.jpg" group-title="影视频道", 抗战经典
+https://mursor.ottiptv.cc/migu/617432318.m3u8?migutoken=6056805b0c05c4a6f977a1cdc20809accd95a7c9bf5f9c97bb35ced9b6e9cef8e0345cf1cf6aeb4467f0240e74780f7555d2c371c46d07125f55a35c60a086eaee814f95807e5008d1a6bb46f7
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="影视频道", 新片放映厅
+https://mursor.ottiptv.cc/migu/619495952.m3u8?migutoken=86f51195f11ac8afeda4ecbc435a8776ff654bdc7a36f172a2215dc76de69c6cb760c3503a16c7290a5013635c163198572dc4417408426969f6596d7a1385caed7c3fea54be9dbb55a15ba25f
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_1080.jpg" group-title="影视频道", CHC影迷电影
+https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=d31f335804a06e81507b9dd4b67f241d26108ad7db32f55614e5e213bfee908e01dfb1d15257560376c59facbc26d531f67f2ebb2f40b316ab971c93830c85f91ff64d39fbbc445dc1ee339546
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/795/202308221159_1692676692674_H169_1080.jpg" group-title="影视频道", CHC动作电影
+https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=933a6da9b6e2e10e49c8eec283a8f545bf77271c4d5b2b0c108e1a49a35342120b15f6845b73c1c1178accd3af36720dd924a610d4afea703c7c078ae7438a49fdb8a3723460933f68ff4ac72a
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="影视频道", CHC家庭影院
+https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=afeb24a6d28cee96f4554d1ec48642b030a925f7bc9b9abae71fafc8b8825de08a39831aca7b6ed874a66bdac347d2748ee85992b78731637746a76e3adfcb9dcb2b9cbbb1bc8c389c6a48ed91
+#EXTINF:-1,tvg-id="电影4K" tvg-name="电影4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="影视频道",电影4K
 https://mursor.ottiptv.cc/bst/dypd4k@15000000.m3u8
-#EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="其他",少儿4K
-https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="其他",重温经典
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="影视频道",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="其他",五星体育
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="影视频道",五星体育
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+#EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="影视频道",少儿4K
+https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
+
+#国际港澳台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际港澳台",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="国际港澳台",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="国际港澳台",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/半岛新闻.png" group-title="国际港澳台",半島新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png" group-title="国际港澳台",NBC News Now
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="国际港澳台",凤凰中文
+http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="国际港澳台",凤凰资讯
+http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="国际港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际港澳台",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际港澳台",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-name="Taiwan Plus" tvg-logo="https://assets.livednow.com/logo/Taiwan-Plus.png" group-title="国际港澳台",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际港澳台",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际港澳台",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="国际港澳台",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AMCMovies.png" group-title="国际港澳台",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="国际港澳台",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
