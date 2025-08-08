@@ -32,7 +32,7 @@ https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=ba40405fae66b31563970c5c
 https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=8d009dee64bbbba825b47ee693c00854549191cd0a0de8f39e541dab786918113ebb83e0d285dcb76c132741201a81285f519df37e7e9959e5af81b0069e90204e13ec96ca955c3cbb11262a28
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="央视卫视", CCTV15音乐
 https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=4ba07ec81515c4d8c4081975dd85913c523d492172fcfb935079063d79b29b1cf6ac4580188b2d4d178f8e97f034755e1955848a549308f243a51c1c48cce3063929bbea5fea7c1705e2080364
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/462/658/202506201045_1750387453057_H169_1080.jpg" group-title="央视卫视", CCTV16奥林匹克
+#EXTINF:-1 tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="央视卫视", CCTV16奥林匹克
 https://mursor.ottiptv.cc/migu/707671890.m3u8?migutoken=09984dd21e7544dd54fdeaa71d146c1ece4ace4aae52d0c0f9e0afa2abf9a618c07cbfadde8f8847f7d43c36b998784cd7cfcf645d8be4c1dd8644bc46205f0f2c2091c8eed4bc4f5d86b628f6
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="央视卫视", CCTV17农业农村
 https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=3f03a8274f8acd117915a9170a8c98f89d37d89345dd1b70a98e43ae241487e3770db4711a37541f27bf3347b83ff08b9b7eae8fd0c58c02b441e81afadf5efff4d28be85e626cfc9d432f7971
@@ -166,37 +166,6 @@ https://mursor.ottiptv.cc/bst/cctv16hd4m@4000000.m3u8
 https://mursor.ottiptv.cc/bst/cctv17hd4m@4000000.m3u8
 
 #影视频道
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",周星驰电影
-http://www.douzhicloud.site:35455/huya/11342412
-#http://iptv.jxpan.vip:18888/aio/huya/11342412
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",林正英电影
-http://www.douzhicloud.site:35455/huya/11342421
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",刘德华电影
-http://www.douzhicloud.site:35455/huya/11342424
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",古天乐电影
-http://www.douzhicloud.site:35455/huya/29982675
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",成龙电影
-http://www.douzhicloud.site:35455/douyu/3379942
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",李连杰电影
-http://www.douzhicloud.site:35455/huya/11342390
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",甄子丹电影
-http://www.douzhicloud.site:35455/huya/11352935
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",沈腾电影
-http://www.douzhicloud.site:35455/huya/11601968
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",黄渤电影
-http://www.douzhicloud.site:35455/huya/11352876
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",强森电影
-http://www.douzhicloud.site:35455/huya/21059581
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",王晶电影
-http://www.douzhicloud.site:35455/huya/11602058
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",金庸武侠
-http://www.douzhicloud.site:35455/huya/11342435
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",邵氏影院
-http://www.douzhicloud.site:35455/douyu/4246519
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",功夫电影
-http://www.douzhicloud.site:35455/huya/11352941
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="影视频道",贺岁电影
-http://www.douzhicloud.site:35455/huya/11601986
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="影视频道", 高清大片
 https://mursor.ottiptv.cc/migu/629943678.m3u8?migutoken=175d1eb9e1f5c50124b9a746b34a7ca2b21b894620c00d8829390c7b0be1f86fb8f0a2d65013965ca758bf6f75f1ec6ff1ed277a04056e6ae05ac9c2f3b86b50fb794d15cdb149e91f84bcc394
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202507181733_1752831177769_H169_1080.jpg" group-title="影视频道", 高能悬疑
