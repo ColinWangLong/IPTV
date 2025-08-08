@@ -227,10 +227,21 @@ https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=933a6da9b6e2e10e49c8eec2
 https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=afeb24a6d28cee96f4554d1ec48642b030a925f7bc9b9abae71fafc8b8825de08a39831aca7b6ed874a66bdac347d2748ee85992b78731637746a76e3adfcb9dcb2b9cbbb1bc8c389c6a48ed91
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="影视频道",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="影视频道",五星体育
-https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 #EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="影视频道",少儿4K
 https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="影视频道",少年包青天第一部
+http://47.102.149.208:35455/yy/1356043677
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="影视频道",爱情公寓
+http://iptv.jxpan.vip:18888/aio/huya/11336726
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="影视频道",笑傲江湖
+http://iptv.jxpan.vip:18888/aio/huya/26355790
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="影视频道",神雕侠侣
+http://iptv.jxpan.vip:18888/aio/huya/11352964
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/天龙八部.png" group-title="影视频道",天龙八部
+http://iptv.jxpan.vip:18888/aio/huya/20985816
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="影视频道",倚天屠龙记
+http://iptv.jxpan.vip:18888/aio/huya/11342403
 
 #国际港澳台
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际港澳台",BBC NEWS
